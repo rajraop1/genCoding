@@ -1,0 +1,8 @@
+Output:
+
+java cloud.java
+3
+2
+1
+2
+
