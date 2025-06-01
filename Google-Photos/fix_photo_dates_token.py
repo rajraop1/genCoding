@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 
 """
-Token setup:
+Token setup: --did not work
 1. Go to https://developers.google.com/oauthplayground
 2. Use your own OAuth credentials.
 3. Use the scope: https://www.googleapis.com/auth/photoslibrary
 4. Exchange for tokens, and copy the access token.
 5. Save it to a file named `token.txt`.
+
+
+---trying google cloud steps
+
 
 Run the script with:
     python3 fix_photo_dates_token.py
